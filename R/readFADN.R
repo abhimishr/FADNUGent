@@ -1,6 +1,6 @@
 #' @title readFADN
 #' @description
-#' reads a harmonized FADN and EOBS(ECA&D) data.
+#' reads a harmonized FADN and EOBS(ECA&D) data. (Link To be provided to download locations)
 #'
 #' @return data frame.
 #' @author Abhijeet Mishra
