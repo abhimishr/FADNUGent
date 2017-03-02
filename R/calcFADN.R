@@ -1,3 +1,15 @@
+#' @title calcFADN
+#' @description
+#' Extracts results from readFADN()
+#'
+#' @return NULL
+#' @author Abhijeet Mishra
+
+#' @examples
+#' \dontrun{
+#' calcFADN
+#' }
+#'
 calcFADN <- function(){
 
   BELGIUM <- rbind(readFADN(start = 1990),readFADN(start = 1991),readFADN(start = 1992),readFADN(start = 1993),readFADN(start = 1994),

@@ -20,7 +20,7 @@ readFADN(start = 1990, end = 2009, int_rate = 1.01,
 data frame.
 }
 \description{
-reads a harmonized FADN and EOBS(ECA&D) data.
+reads a harmonized FADN and EOBS(ECA&D) data. (Link To be provided to download locations)
 }
 \examples{
 \dontrun{
